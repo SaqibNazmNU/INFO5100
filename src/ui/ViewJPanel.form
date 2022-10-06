@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="90" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jLastNameLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jDobLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jAgeLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTelNumLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jFirstNameLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jEmailLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jStreetLine1Label" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jStreetLine2Label" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jCityLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jCountryLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jAffiliationLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jMajorLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jCareerLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jDegree1Label" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jDegree1StartLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jDegree1EndLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jDegree2Label" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jDegree2StartLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jDegree2EndLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="jTxtLName" alignment="0" pref="112" max="32767" attributes="0"/>
+                      <Component id="jTxtFName" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtDob" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtAge" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtTelNum" alignment="1" max="32767" attributes="0"/>
+                      <Component id="jTxtEmail" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtStreetLine1" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtStreetLine2" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtCity" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtCountry" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtAffiliation" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtMajor" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtCareer" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtDegree1" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtDegree1Start" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtDegree1End" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtDegreeTwo" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtDegree2Start" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jTxtDegree2End" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="380" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabelCreateUser" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jLabelCreateUser" min="-2" pref="25" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="jFirstNameLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtFName" alignment="1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jTxtLName" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLastNameLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jDobLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtDob" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jAgeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtAge" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jTelNumLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtTelNum" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jEmailLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtEmail" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jStreetLine1Label" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtStreetLine1" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jStreetLine2Label" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtStreetLine2" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jCityLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtCity" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jCountryLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtCountry" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jAffiliationLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtAffiliation" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jMajorLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtMajor" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jCareerLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtCareer" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jDegree1Label" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtDegree1" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jDegree1StartLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtDegree1Start" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jDegree1EndLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtDegree1End" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jDegree2Label" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtDegreeTwo" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jDegree2StartLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtDegree2Start" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jDegree2EndLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTxtDegree2End" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="89" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jFirstNameLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="First Name"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtFName">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLastNameLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Last Name"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtLName">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jDobLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="DOB"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtDob">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jAgeLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Age"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtAge">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jTelNumLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Telephone Number"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtTelNum">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jEmailLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Email"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtEmail">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jStreetLine1Label">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Street Line 1"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtStreetLine1">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jStreetLine2Label">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Street Line 2"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtStreetLine2">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jCityLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="City"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtCity">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jCountryLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Country"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtCountry">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jAffiliationLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Affiliation"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtAffiliation">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jMajorLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Major"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtMajor">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jCareerLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Career"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtCareer">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jDegree1Label">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Degree 1"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtDegree1">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTxtDegree1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jDegree1StartLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Degree 1 Start"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtDegree1Start">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jDegree1EndLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Degree 1 End"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtDegree1End">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jDegree2Label">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Degree 2"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtDegreeTwo">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jDegree2StartLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Degree 2 Start"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtDegree2Start">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jDegree2EndLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Degree 2 End"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTxtDegree2End">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabelCreateUser">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Helvetica Neue" size="24" style="0"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="View User"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
